@@ -10,10 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 0}
-  m_Name: OdinModuleConfig
+  m_Name: GlobalSerializationConfig
   m_EditorClassIdentifier: 
-  configurations:
-  - ID: Unity.Mathematics
-    ActivationSettings: 0
-  ModuleTogglingSettings: 0
-  ModuleUpdateSettings: 0
+  HideSerializationCautionaryMessage: 0
+  HidePrefabCautionaryMessage: 0
+  HideOdinSerializeAttributeWarningMessages: 0
+  HideNonSerializedShowInInspectorWarningMessages: 0
+  buildSerializationFormat: 0
+  editorSerializationFormat: 2
+  loggingPolicy: 0
+  errorHandlingPolicy: 0

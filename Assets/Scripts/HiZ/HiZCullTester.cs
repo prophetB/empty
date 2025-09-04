@@ -1,6 +1,5 @@
 using UnityEngine.Rendering.Universal;
 using UnityEngine.Rendering;
-using Sirenix.OdinInspector;
 
 namespace HiZRunTime
 {
